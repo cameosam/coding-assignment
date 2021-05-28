@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+h1 {
+  background-color: #403c5c;
+  color: white;
+  margin: 1em 0;
+  padding: 1em;
+}
+
+table {
+  margin: auto;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 15px;
+  border: 1px solid #ddd;
+}
+
+.happy-face {
+  width: 8em;
+  margin: 1em;
+}
+
+#text {
+  margin: 1em;
+}
